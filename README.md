@@ -1,6 +1,6 @@
 # Visualforce TableGrid #
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=Up2Go&repo=visualforce-table-grid">
+<a href="https://githubsfdeploy.herokuapp.com?owner=sndralex&repo=visualforce-table-grid">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
